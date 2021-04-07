@@ -1,9 +1,9 @@
-# AUTONOMOUS PARKING CAR WITH SENSORS
+# AUTONOMOUS PARKING CAR WITH SENSORS (UniWA @IoT Lab)
   - Dimitrios Niavis
   - Menelaos Pikridas
   - Apostolos Syriodis
 
-# Hardware Required:
+# Hardware Required
   -Arduino Board
   -Motor Shield (Adafruit)
   -Ultrasonic Sensor (HC-SR04) x6
