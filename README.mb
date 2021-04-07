@@ -1,0 +1,14 @@
+AUTONOMOUS PARKING CAR WITH SENSORS
+
+ΠΙΚΡΙΔΑΣ ΜΕΝΕΛΑΟΣ  CS141291
+ΣΥΡΙΩΔΗΣ ΑΠΟΣΤΟΛΟΣ CSE46683
+ΝΙΑΒΗΣ   ΔΗΜΗΤΡΙΟΣ CS141070
+
+Hardware Required:
+-Arduino Board
+-Motor Shield (Adafruit)
+-Ultrasonic Sensor (HC-SR04) x6
+-DC Motor x4
+-Wheel x4
+-Wires
+-Battery 1.2V x4
